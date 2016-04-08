@@ -1,1 +1,2 @@
 this is a file from Git_repository2 directory;
+I changed the newfile.txt from git_repository directory;
